@@ -1,0 +1,8 @@
+The following functions has been implemented.
+
+	Notmal constructor.
+	Copy constructor.
+	Destructor.
+	Overload of =, <<.
+	Get the length of the string.
+

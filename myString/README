@@ -1,8 +1,15 @@
 The following functions has been implemented.
 
-	Notmal constructor.
+	Default constructor.
+	Constructor from a c-tyle string.
+	Constructor form n*ch.
 	Copy constructor.
 	Destructor.
-	Overload of =, <<.
+
 	Get the length of the string.
+	Get sub-string from start to end.
+	Get c-tyle string of MyString
+	Check whether a ch(or c-style string or another object of MyString) existes
+
+	Overload of =, <<, ==.
 

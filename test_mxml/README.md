@@ -1,4 +1,4 @@
-# This is a test program about the basic use of mini-xml
+# Usage of mini-xml
 
 # How to compile
 

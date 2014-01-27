@@ -1,6 +1,6 @@
 /********************************************************
  * Author		: Hao Ding
- * Email		: mailtodinghao@gmail.com
+ * Email		: mail2haoding@gmail.com
  * Created Time	: Thu 02 Jan 2014 06:26:42 AM CST
  * Filename		: MyString.h
  * Description	: 

@@ -23,7 +23,7 @@ char *get_temperature_xml() {
     return buffer;
 }
 
-int main() {
+int main(int argc, char *argv[]) {
     char *buffer = get_temperature_xml();
     mxml_node_t *xml2 = mxmlLoadString(NULL, buffer, MXML_REAL_CALLBACK);
 

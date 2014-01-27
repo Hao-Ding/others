@@ -1,6 +1,6 @@
 /********************************************************
  * Author		: Hao Ding
- * Email		: mailtodinghao@gmail.com
+ * Email		: mail2haoding@gmail.com
  * Created Time	: Thu 02 Jan 2014 07:41:03 AM CST
  * Filename		: main.cpp
  * Description	: 
